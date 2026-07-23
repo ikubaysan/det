@@ -1,0 +1,9 @@
+{
+  "selected_mic_index": null,
+  "selected_mic_name": null,
+  "volume_threshold": 0.02,
+  "sustained_seconds": 5,
+  "status_print_interval": 5,
+  "action": "print_alert",
+  "visualization_enabled": true
+}

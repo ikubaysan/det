@@ -1,4 +1,4 @@
-# Mic Volume Monitor
+# det
 
 Monitors a microphone in real time, and if the volume stays above a threshold
 (on average) for too long, runs a configurable action.
